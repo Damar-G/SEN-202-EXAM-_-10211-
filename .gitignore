@@ -1,0 +1,9 @@
+#virtual environment
+Divine.sen202_env/
+
+#Django and Python Files
+*.pyc
+"__pycache__/"
+db.sqlite3
+.env/
+ 
